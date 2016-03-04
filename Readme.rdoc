@@ -1,0 +1,9 @@
+To run this project:
+1. Install mongodb
+2. Install pip
+3. Install pymongo
+4. Install bottle
+
+Running the app:
+1. python read_and_insert_SkyLink.py
+2. Open your browser and see the output on http://localhost:5000
